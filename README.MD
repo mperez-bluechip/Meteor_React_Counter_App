@@ -1,4 +1,4 @@
-# Meteor/React Counter App
+# Meteor/React Posts Counter App
 
 ## Instructions
 
